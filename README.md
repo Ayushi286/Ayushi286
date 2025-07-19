@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hola amigos 👋
 
-<!--
-**Ayushi286/Ayushi286** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I am a prefinal B.Tech student,interested in problem solving and logic building.
+I have made some projects to keep my journey growth exponential.
+Created  some cool projects in the field of data analaysis,python programming and embedded system.
+I am interested in how stuff works(literally!)🌐.
+Lets keep in touch and create together💻.
+ 
+
+- 🔭 I’m currently working on my EDA project in my ongoing Data analyst Internship
+- 📖 I’m currently learning LLMs and Generative Ai(llms feel pure magic but we will learn the recipe soon)
+- 📫 LinkedIn:https://www.linkedin.com/in/ayushi-arya-p286/
+- ⚡ Fun fact:I am extremely optimistic about being pessimistic😁(I am working on it guys dont worry)
+- 📈 I strive to understand the complexities of technology and how we oversimplify them
+- 📘 My hobby include reading books (my fav so far is:The picture of dorian gray)
+
+  
